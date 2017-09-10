@@ -591,7 +591,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: a9435c85-349a-481b-af91-4685cccea0ea
-  projectName: RollBallApplication
+  projectName: RollBall-for-Unity
   organizationId: kohei0309
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
